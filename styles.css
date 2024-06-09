@@ -16,13 +16,15 @@ header {
     text-align: center;
     padding: 20px;
 }
-
+.img {
+    float : right;
+}
 header h1 {
     font-size: 24px;
 }
 .Photo{
     float : right;
-    clip-path:ellipse(33% 50%);
+    clip-path:ellipse(33% 33%);
 }
 header img {
     max-width: 100%;
