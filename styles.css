@@ -22,7 +22,7 @@ header h1 {
 }
 .Photo{
     float : right;
-    border-radius: 50%;
+    clip-path:ellipse(33% 50%);
 }
 header img {
     max-width: 100%;
