@@ -24,7 +24,7 @@ header h1 {
 }
 .Photo{
     float : right;
-    clip-path:ellipse(33% 43%);
+    clip-path:ellipse(43% 33%);
 }
 header img {
     max-width: 100%;
