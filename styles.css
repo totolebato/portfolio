@@ -3,7 +3,12 @@ body, h1, h2, h3, p {
     padding: 0;
     font-family: Arial, sans-serif;
 }
-
+.autrespages{
+    display : flex;
+    list-style : none;
+    justify-content : space-around;
+    align-items : center;
+}
 header {
     background-color: #333;
     color: #fff;
@@ -86,4 +91,8 @@ th, td {
 
 figcaption {
     font-style: italic;
+}
+.resaux-sociaux{
+    list-style : none;
+    align-items : center;
 }
