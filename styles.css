@@ -4,7 +4,7 @@ body, h1, h2, h3, p {
     font-family: Arial, sans-serif;
 }
 .autrepages{
-    backgroud-color : #C8AD7F;
+    background-color: #C8AD7F;
     display : flex;
     list-style : none;
     justify-content : space-around;
@@ -24,7 +24,7 @@ header h1 {
 }
 .Photo{
     float : right;
-    clip-path:ellipse(33% 33%);
+    clip-path:ellipse(43% 33%);
 }
 header img {
     max-width: 100%;
